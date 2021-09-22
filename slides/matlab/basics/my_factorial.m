@@ -4,7 +4,7 @@ function f = my_factorial(n)
 end
 
 function f = my_factorial_scalar(n)
-	% Compute the factorial of a number.
+	% Compute the factorial of a single number.
 	if floor(n) ~= n || n < 0
 		error('nonnegative integer required');
 	end
