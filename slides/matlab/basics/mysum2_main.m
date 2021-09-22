@@ -1,3 +1,2 @@
-a = mysum2(1, 1, 1, 1, 1, 1, 1, 1, 1, 1)
-  % mysum2 returns 10
-b = mysum(1, 2) % mysum2 returns 3
+fprintf('%f %f\n', mysum2(1, 1, 1, 1, 1, 1, 1, 1), ...
+  mysum(1, 2));

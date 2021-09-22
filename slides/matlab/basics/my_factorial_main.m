@@ -1,2 +1,2 @@
 f = my_factorial(1 : 5);
-disp(f);
+fprintf('%d ', f); fprintf('\n');
