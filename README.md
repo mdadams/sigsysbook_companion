@@ -4,17 +4,19 @@ Companion Git Repository for "Signals and Systems"
 This repository contains some code examples that are associated with
 the following textbook and lecture slides:
 
-  - Michael D. Adams, Signals and Systems, Edition 3.0,
-    University of Victoria, Victoria, BC, Canada, Dec. 2020,
-    xliv + 680 pages,
-    ISBN 978-1-55058-674-9 (PDF),
-    ISBN 978-1-55058-673-2 (print).
+  - Michael D. Adams,
+    Signals and Systems,
+    Edition 4.0,
+    Jan. 2022,
+    xliv + 690 pages,
+    ISBN 978-0-9879197-7-9 (PDF).
 
-  - M. D. Adams, Lecture Slides for Signals and Systems, Edition 3.0,
-    University of Victoria, Victoria, BC, Canada, Dec. 2020,
-    xvi + 625 slides,
-    ISBN 978-1-55058-678-7 (PDF),
-    ISBN 978-1-55058-677-0 (print).
+  - Michael D. Adams,
+    Lecture Slides for Signals and Systems,
+    Edition 4.0,
+    Jan. 2022,
+    xviii + 787 slides,
+    ISBN 978-0-9879197-9-3 (PDF).
 
 Obtaining the Textbook and Lecture Slides
 -----------------------------------------
