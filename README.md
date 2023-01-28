@@ -6,17 +6,17 @@ the following textbook and lecture slides:
 
   - Michael D. Adams,
     Signals and Systems,
-    Edition 4.0,
-    Jan. 2022,
-    xliv + 690 pages,
-    ISBN 978-0-9879197-7-9 (PDF).
+    Edition 5.0,
+    Dec. 2022,
+    xliv + 700 pages,
+    ISBN 978-1-990707-00-1 ([PDF](https://www.ece.uvic.ca/~mdadams/sigsysbook/downloads/signals_and_systems-5.0.pdf)).
 
   - Michael D. Adams,
     Lecture Slides for Signals and Systems,
-    Edition 4.0,
-    Jan. 2022,
-    xviii + 787 slides,
-    ISBN 978-0-9879197-9-3 (PDF).
+    Edition 5.0,
+    Dec. 2022,
+    xix + 789 slides,
+    ISBN 978-1-990707-02-5 ([PDF](https://www.ece.uvic.ca/~mdadams/sigsysbook/downloads/lecture_slides_for_signals_and_systems-5.0.pdf)).
 
 Obtaining the Textbook and Lecture Slides
 -----------------------------------------
